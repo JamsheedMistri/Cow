@@ -1,0 +1,9 @@
+name: Cow
+description: The Cow of Doooooom(ooo)
+version: 1.0
+main: com.mistri.plugin.cow.CowOfDoom
+commands:
+  nope:
+    description: NO.
+  yep:
+    description: Yes.
